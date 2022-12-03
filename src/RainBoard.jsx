@@ -69,7 +69,8 @@ const InputWrapper = styled.div`
   width: 500px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 5px;
+  margin-bottom: 10px;
 `
 
 const InputTitle = styled.span`
